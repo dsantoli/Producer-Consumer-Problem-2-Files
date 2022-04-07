@@ -22,7 +22,6 @@ $ gcc -o producerconsumer producer.o consumer.o
 
 $ ./producerconsumer
 
-$ ./producerConsumer
 # Example Run & Output
 dsant@LAPTOP- MINGW64 ~/Desktop/VS code projects/C-C++ workspace (master)
 $ gcc producer.c -pthread -o producer.o -c
